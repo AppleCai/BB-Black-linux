@@ -1,0 +1,1 @@
+cmd_/home/github/bb-black-linux/mysrc/hello/hello.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/github/bb-black-linux/mysrc/hello/hello.ko /home/github/bb-black-linux/mysrc/hello/hello.o /home/github/bb-black-linux/mysrc/hello/hello.mod.o ;  true
