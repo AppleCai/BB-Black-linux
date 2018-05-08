@@ -1,1 +1,0 @@
-cmd_/home/study/test/board-support/hello/hello.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/study/test/board-support/hello/hello.ko /home/study/test/board-support/hello/hello.o /home/study/test/board-support/hello/hello.mod.o
